@@ -1,4 +1,14 @@
-package PACKAGE_NAME;
+import java.util.Scanner;
 
-public class PrettyHeader {
+
+public class PrettyHeader
+{
+    public static void main(String[] args) {
+        SafeInput.prettyHeader("Pretty Header");
+    }
 }
+
+
+
+
+
